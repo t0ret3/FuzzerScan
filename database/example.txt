@@ -1,0 +1,20 @@
+Estos son los enlaces verificados con éxito en https://www.kali.org:
+
+https://www.kali.org/blog
+https://www.kali.org/contact
+https://www.kali.org/downloads
+https://www.kali.org/docs
+https://www.kali.org/download
+https://www.kali.org/get
+https://www.kali.org/index
+https://www.kali.org/tools
+
+---
+
+DESCARGO DE RESPONSABILIDAD: Este script es proporcionado únicamente con fines educativos e informativos.
+El uso indebido de este script para llevar a cabo actividades ilegales o éticamente cuestionables está estrictamente prohibido.
+El usuario es el único responsable de cualquier uso ilegal o inapropiado de este script.
+El desarrollador y los contribuyentes no son responsables de ningún daño, pérdida o consecuencia resultante del uso indebido de este script.
+Se recomienda encarecidamente utilizar este script de acuerdo con las leyes y regulaciones locales.
+Al utilizar este script, acepta estos términos y condiciones.
+Si no acepta estos términos, absténgase de utilizar este script.
